@@ -1,0 +1,42 @@
+[
+    {
+        "Candidate name": "priya",
+        "question": "Where do you see yourself in 5 years?",
+        "answer": "growth oriented",
+        "Category": "HR",
+        "score": 2,
+        "feedback": "Good answer"
+    },
+    {
+        "Candidate name": "priya",
+        "question": "What are your strengths?",
+        "answer": "my strength is strong communicator and colla",
+        "Category": "HR",
+        "score": 1,
+        "feedback": "Needs improvement"
+    },
+    {
+        "Candidate name": "priya",
+        "question": "How do you work in a team?",
+        "answer": "",
+        "Category": "HR",
+        "score": 0,
+        "feedback": "No answer provided."
+    },
+    {
+        "Candidate name": "priya",
+        "question": "Why should we hire you?",
+        "answer": "",
+        "Category": "HR",
+        "score": 0,
+        "feedback": "No answer provided."
+    },
+    {
+        "Candidate name": "priya",
+        "question": "How do you handle pressure?",
+        "answer": "by managing my time",
+        "Category": "HR",
+        "score": 1,
+        "feedback": "Needs improvement"
+    }
+]
