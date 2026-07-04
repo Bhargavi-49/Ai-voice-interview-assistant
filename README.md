@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Ai-voice-interview-assistant
 
 ## Description
